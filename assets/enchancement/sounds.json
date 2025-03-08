@@ -1,44 +1,44 @@
 {
   "entity.generic.air_jump": {
     "sounds": [
-      "enchancement:entity/air_jump"
+      "ultrahancement:entity/air_jump"
     ],
     "subtitle": "subtitles.enchancement.entity.generic.air_jump",
     "replace": true
   },
   "entity.generic.dash": {
-    "sounds": ["enchancement:entity/dash"],
+    "sounds": ["ultrahancement:entity/dash"],
     "subtitle": "subtitles.enchancement.entity.generic.dash",
     "replace": true
   },
   "entity.generic.erupt": {
-    "sounds": ["enchancement:entity/erupt"],
+    "sounds": ["ultrahancement:entity/erupt"],
     "subtitle": "subtitles.enchancement.entity.generic.erupt",
     "replace": true
   },
   "entity.generic.impact": {
-    "sounds": ["enchancement:entity/impact"],
+    "sounds": ["ultrahancement:entity/landing"],
     "subtitle": "subtitles.enchancement.entity.generic.impact",
     "replace": true
   },
   "entity.generic.spark": {
-    "sounds": ["enchancement:entity/spark"],
+    "sounds": ["ultrahancement:entity/spark"],
     "subtitle": "subtitles.enchancement.entity.generic.spark",
     "replace": true
   },
   "entity.generic.strafe": {
-    "sounds": ["enchancement:entity/dash"],
+    "sounds": ["ultrahancement:entity/dash"],
     "subtitle": "subtitles.enchancement.entity.generic.strafe",
     "replace": true
   },
   "entity.generic.zap": {
-    "sounds": ["enchancement:entity/zap"],
+    "sounds": ["ultrahancement:entity/zap"],
     "subtitle": "subtitles.enchancement.entity.generic.zap",
     "replace": true
   },
   "item.crossbow.scatter": {
     "sounds": [
-      "enchancement:item/crossbow/scatter"
+      "ultrahancement:item/crossbow/scatter"
     ],
     "subtitle": "subtitles.item.crossbow.shoot",
     "replace": true
